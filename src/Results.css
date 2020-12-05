@@ -1,0 +1,6 @@
+/* jo div flipMove ne khud add kra h vo div target kra h */
+.results > div{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
